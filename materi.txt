@@ -1,0 +1,10 @@
+Handphone, menggunakan class ‘col-xs-1‘ s/d ‘col-xs-12‘
+Tablet, menggunakan class ‘col-sm-1‘ s/d ‘col-sm-12‘
+Monitor, menggunakan class ‘col-md-1‘ s/d ‘col-md-12‘
+Monitor HD, menggunakan class ‘col-lg-1‘ s/d ‘col-lg-12‘
+
+Sditarrisalahsecang2023 (password database mysql)
+sditarrisalah (username database mysql)
+
+untuk mengkoneksikan phpmyadmin diperlukan
+("$host_name","$user_name","$password");
